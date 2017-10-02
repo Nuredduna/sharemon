@@ -3,4 +3,8 @@ python:
    - 3.5
 script:
    - make test
+notifications:
+    email: 
+        on_success: change
+        on_failure: always
 
