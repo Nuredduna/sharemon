@@ -1,0 +1,3 @@
+DE0007236101|Siemens|
+GOOG|Alphabet|
+XXX|Unknown|
